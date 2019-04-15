@@ -7,7 +7,8 @@ public class Problem1 {
     /*
         This problem was recently asked by Google.
 
-        Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
+        Given a list of numbers and a number k, return whether any two numbers from the 
+        list add up to k.
 
         For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
@@ -27,7 +28,8 @@ public class Problem1 {
             - time: O(N²) --> each element compared with each other
             - space: O(1)
             
-            This is not true, because a can not use the same element twice. This idea not works.
+            This is not true, because a can not use the same element twice. This idea not 
+            works.
             
             
             
